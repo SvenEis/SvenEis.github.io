@@ -18,7 +18,7 @@
       institution: University of Trier, Trier, Germany
       year: 2021
       description:
-        - Focus on Macroeconomics, Statistics, and Econometrics
+        - Focus on Macroeconomics, and Econometrics
         - title: Bachelor Thesis supervised by Prof. Dr. Matthias Neuenkirch
           contents:
             - "An Empirical Analysis of Neoclassical Growth Models in Industrialized and Outreach Countries"
@@ -42,6 +42,9 @@
     - title: <a href="https://github.com/SvenEis/med-scale-nk">The dynamic consequences of a risk premium shock in a medium scale model with wage rigidity and different monetary policy regimes</a>
       year: 2023
       description: The final project for the Research Module in Macroeconomics and Public Economics.
+    - title: <a href="https://github.com/SvenEis/nkpc_estimation">The New Keynesian Phillips Curve - An Empirical Assessment</a>
+      year: 2023
+      description: The final project for the course Effective programming practices for economists.
     - title: <a href="https://github.com/SvenEis/Random_Forest">Random Forest - Is the "out-of-the-box" performance optimal?</a>
       year: 2022
       description: The final project for the course Computational Statistics.
