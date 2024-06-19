@@ -19,9 +19,6 @@
       year: 2021
       description:
         - Focus on Macroeconomics, and Econometrics
-        - title: Bachelor Thesis supervised by Prof. Dr. Matthias Neuenkirch
-          contents:
-            - "An Empirical Analysis of Neoclassical Growth Models in Industrialized and Outreach Countries"
 
 - title: Research & Work Experience
   type: time_table
@@ -42,6 +39,9 @@
 - title: Projects
   type: time_table
   contents:
+    - title: Stairway to Stability: Mortgage Lending Standards and Borrower-Based Macroprudential Instruments in Germany
+      year: 2024
+      description: Master`s Thesis, work in progress.
     - title: <a href="https://github.com/SvenEis/med-scale-nk">The dynamic consequences of a risk premium shock in a medium scale model with wage rigidity and different monetary policy regimes</a>
       year: 2023
       description: The final project for the Research Module in Macroeconomics and Public Economics.
